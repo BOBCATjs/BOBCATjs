@@ -1,4 +1,4 @@
-<center><img alt='catgif' src='./Assests/cat.gif' width='50%'></center>
+<div align='center'><img alt='catgif' src='./Assests/cat.gif' width='50%'></div>
 
 # <center>👋 Hello 👋</center>
 
@@ -7,13 +7,13 @@
 ## <center>💬 Find me 💬</center>
 
 <div style='display: flex' align='center'>
-<a href='https://www.linkedin.com/in/shuranov-ilya-frontend/'>
+<a href='https://www.linkedin.com/in/shuranov-ilya-frontend/' style='text-decoration: none'>
     <img alt='linkedIn' src='./Assests/linkedIn.png'>
 </a>
-<a href='https://vk.com/ilyashuranov'>
+<a href='https://vk.com/ilyashuranov' style='text-decoration: none'>
     <img alt='vk' src='./Assests/vk.png'>
 </a>
-<a href='https://t.me/ilyashuranov'>
+<a href='https://t.me/ilyashuranov' style='text-decoration: none'>
     <img alt='telegram' src='./Assests/tg.png'>
 </a>
 </div>
