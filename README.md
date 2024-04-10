@@ -29,6 +29,7 @@
 <img alt='css' src='./Assests/css.png'>
 <img alt='docker' src='./Assests/docker.png'>
 <img alt='webpack' src='./Assests/webpack.png'>
+<img alt='vite' src='./Assests/vite.png'>
 <img alt='jest' src='./Assests/jest.png'>
 <img alt='gitlab' src='./Assests/gitlab.png'>
 <img alt='github' src='./Assests/github.png'>
