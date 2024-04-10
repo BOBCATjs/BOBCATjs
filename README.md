@@ -16,7 +16,7 @@
 <a href='https://t.me/ilyashuranov'>
     <img alt='telegram' src='./Assests/tg.png'>
 </a>
-<a href='https://t.me/ilyashuranov' style='text-decoration: none'>
+<a href='https://t.me/ilyashuranov' style='text-decoration: none !important'>
     tgggggggggggggggggggggggggggggggggg
 </a>
 </div>
