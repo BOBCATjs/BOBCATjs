@@ -7,14 +7,17 @@
 ## <center>💬 Find me 💬</center>
 
 <div style='display: flex' align='center'>
-<a href='https://www.linkedin.com/in/shuranov-ilya-frontend/' style='text-decoration: none'>
+<a href='https://www.linkedin.com/in/shuranov-ilya-frontend/'>
     <img alt='linkedIn' src='./Assests/linkedIn.png'>
 </a>
-<a href='https://vk.com/ilyashuranov' style='text-decoration: none'>
+<a href='https://vk.com/ilyashuranov'>
     <img alt='vk' src='./Assests/vk.png'>
 </a>
-<a href='https://t.me/ilyashuranov' style='text-decoration: none'>
+<a href='https://t.me/ilyashuranov'>
     <img alt='telegram' src='./Assests/tg.png'>
+</a>
+<a href='https://t.me/ilyashuranov' style='text-decoration: none'>
+    tgggggggggggggggggggggggggggggggggg
 </a>
 </div>
 
