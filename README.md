@@ -6,7 +6,7 @@
 
 ## <center>💬 Find me 💬</center>
 
-<center>
+<div style='display: flex' align='center'>
 <a href='https://www.linkedin.com/in/shuranov-ilya-frontend/'>
     <img alt='linkedIn' src='./Assests/linkedIn.png'>
 </a>
@@ -16,9 +16,10 @@
 <a href='https://t.me/ilyashuranov'>
     <img alt='telegram' src='./Assests/tg.png'>
 </a>
-</center>
+</div>
 
 ## <center>🔨 Languages and Tools 🔨</center>
+
 <div style='display: flex' align='center'>
 <img alt='js' src='./Assests/js.png'>
 <img alt='ts' src='./Assests/ts.png'>
