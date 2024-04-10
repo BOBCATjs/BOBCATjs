@@ -19,7 +19,7 @@
 </center>
 
 ## <center>🔨 Languages and Tools 🔨</center>
-<center>
+<div style='display: flex; justify-content: center'>
 <img alt='js' src='./Assests/js.png'>
 <img alt='ts' src='./Assests/ts.png'>
 <img alt='react' src='./Assests/react.png'>
@@ -31,4 +31,4 @@
 <img alt='jest' src='./Assests/jest.png'>
 <img alt='gitlab' src='./Assests/gitlab.png'>
 <img alt='github' src='./Assests/github.png'>
-</center>
+</div>
