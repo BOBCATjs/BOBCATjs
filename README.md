@@ -19,7 +19,7 @@
 </center>
 
 ## <center>🔨 Languages and Tools 🔨</center>
-<div style='display: flex; justify-content: center'>
+<div style='display: flex; justify-content: center; magrin: 0 auto;'>
 <img alt='js' src='./Assests/js.png'>
 <img alt='ts' src='./Assests/ts.png'>
 <img alt='react' src='./Assests/react.png'>
