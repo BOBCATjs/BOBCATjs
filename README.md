@@ -1,10 +1,10 @@
 <div align='center'><img alt='catgif' src='./Assests/cat.gif' width='50%'></div>
 
-# <center>👋 Hello 👋</center>
+# <p align='center'>👋 Hello 👋</p>
 
-## <center>⚡ My name is Ilya, I'm Frontend developer ⚡</center>
+## <p align='center'>⚡ My name is Ilya, I'm Frontend developer ⚡</p>
 
-## <center>💬 Find me 💬</center>
+## <p align='center'>💬 Find me 💬</p>
 
 <div style='display: flex, text-decoration: none !important' align='center'>
 <a href='https://www.linkedin.com/in/shuranov-ilya-frontend/'>
@@ -16,12 +16,9 @@
 <a href='https://t.me/ilyashuranov'>
     <img alt='telegram' src='./Assests/tg.png'>
 </a>
-<a href='https://t.me/ilyashuranov'>
-    tgggggggggggggggggggggggggggggggggg
-</a>
 </div>
 
-## <center>🔨 Languages and Tools 🔨</center>
+## <p align='center'>🔨 Languages and Tools 🔨</p>
 
 <div style='display: flex' align='center'>
 <img alt='js' src='./Assests/js.png'>
