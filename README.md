@@ -10,12 +10,6 @@
 <a href='https://www.linkedin.com/in/shuranov-ilya-frontend/'>
     <img alt='linkedIn' src='./Assests/linkedIn.png'>
 </a>
-<a href='https://vk.com/ilyashuranov'>
-    <img alt='vk' src='./Assests/vk.png'>
-</a>
-<a href='https://t.me/ilyashuranov'>
-    <img alt='telegram' src='./Assests/tg.png'>
-</a>
 </div>
 
 ## <p align='center'>🔨 Languages and Tools 🔨</p>
